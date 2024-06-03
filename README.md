@@ -31,3 +31,11 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 ## 📘 Projeto feito como forma de estudos
 
 Esse projeto foi feito como formato de estudos em colaboração com a Rocketseat.git
+
+## 📚Aprendizados
+
+Através do curso aprendi a trabalhar com as linguagens
+- HTML (que é resposável por toda estrutura do site)
+- CSS (Responsável por toda parte artística)
+- JS (Responsável por toda inteligência do site)
+- GIT e GITHUB (Responsável por trazer todo esse projeto ao site)
